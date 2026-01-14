@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Habit Coach – Full-Stack AI Habit Tracker
 
 MERN stack habit tracker with AI-powered coaching.
@@ -57,3 +58,6 @@ The app will run on http://localhost:5173.
 - `MongoDB connection failed` → MongoDB not running (start MongoDB first)
 - `Invalid credentials` → Wrong email/password or account doesn't exist (register first)
 
+=======
+# Fix8flow
+>>>>>>> fc0071cce51ee65ee1ae1069e36c83fab3114f13
